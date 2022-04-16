@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f18a2d0.css",
+    "main.js": "/static/js/main.bcc98e11.js",
+    "static/media/laura-smith.png": "/static/media/laura-smith.d3466e72c1ad54933398.png",
+    "index.html": "/index.html",
+    "main.5f18a2d0.css.map": "/static/css/main.5f18a2d0.css.map",
+    "main.bcc98e11.js.map": "/static/js/main.bcc98e11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f18a2d0.css",
+    "static/js/main.bcc98e11.js"
+  ]
+}
