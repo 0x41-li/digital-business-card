@@ -7,13 +7,17 @@ import Footer from "./components/Footer";
 
 export default function App() {
   return (
-    <>
+    <div className="card">
       <CardImage />
-      <PersonalInfo />
-      <ContactMeButtons />
-      <About />
-      <Interests />
+
+      <div className="card-body">
+        <PersonalInfo />
+        <ContactMeButtons />
+        <About />
+        <Interests />
+      </div>
+
       <Footer />
-    </>
+    </div>
   );
 }
